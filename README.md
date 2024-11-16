@@ -1,6 +1,5 @@
-
+# DATE : 16.09.2024
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
-
 
 ## AIM:
 
@@ -148,15 +147,11 @@ private TextView textViewContacts;
 
 ```
 
-
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/fc6194d0-2547-4b2b-b77f-be7c2d0b2899)
+
 ![image](https://github.com/user-attachments/assets/25f9c3b7-d55d-4138-8027-752d06507e34)
-
-
-
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
